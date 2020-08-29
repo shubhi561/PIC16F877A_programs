@@ -1,0 +1,13 @@
+how to use pickit 2 software:-
+
+http://www.exploreembedded.com/wiki/Uploading_Hex_File_Using_Pickit2
+
+how to use Mikro C software:-
+
+https://electrosome.com/led-blinking-pic/
+
+
+Stepper motor wiring tutorial
+
+http://42bots.com/tutorials/stepper-motor-wiring-how-to/
+
